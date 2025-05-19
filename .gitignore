@@ -17,6 +17,7 @@ ENV/
 
 #Seret files
 .env
+ll_env
 
 #IDEs and Editors
 .vscode/
