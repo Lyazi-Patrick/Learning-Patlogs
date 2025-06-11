@@ -36,6 +36,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'learning_logs',#My app
     'users',#2
+    'bootstrap4',#Third party apps.
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
